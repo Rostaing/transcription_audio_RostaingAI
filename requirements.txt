@@ -1,0 +1,3 @@
+llm_axe==1.1.8
+groq==0.13.0
+streamlit==1.41.1
